@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: IMAGE_PLACEHOLDER
+          image: 262251629687.dkr.ecr.us-east-1.amazonaws.com/frontend:76eac19
           ports:
             - containerPort: 80
